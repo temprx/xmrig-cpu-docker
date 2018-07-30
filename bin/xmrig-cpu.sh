@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 CRYPTO=cryptonight
-POOL=
-WALLET=
+POOL=pool.supportxmr.com:5555
+WALLET=47H7tKGJKE1CPrvWHcm9N4PgLdKwWYw8QWV2V9Txy3NhRFK9TW7McxxN88GLbVXpNUZ3c3PjT8iCE9FEiD8JpvEgJfL5rWc
 CPUS=
 MAX_CPU=75
 
